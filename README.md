@@ -1,14 +1,14 @@
 <div align="center">
 
 ```
-```
+
  ____    _    ____  ___ 
 / ___|  / \  / ___||_ _|
 \___ \ / _ \ \___ \ | | 
  ___) / ___ \ ___) || | 
 |____/_/   \_\____/|___|
 ```
-```
+
 
 ### Ghanta Sasi Sai Tulasi
 **ECE @ IIIT Sri City** · Full Stack · AI/ML · Building things that actually ship
