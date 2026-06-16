@@ -33,30 +33,30 @@ const sasi = {
 
 ---
 
-## what i build
+## What i build
 
 | project | stack | what it does |
 |---------|-------|-------------|
 | **[TaskFlow](https://github.com/sasighanta/taskflow)** | React · Node.js · PostgreSQL · Supabase | Full-stack Trello clone — drag-and-drop boards, 11 RESTful API endpoints, deployed on Vercel + Render |
 | **[EduPulse](https://github.com/sasighanta/edupulse)** | Next.js · TypeScript · Tailwind v4 · Framer Motion | Learning management dashboard — bento grid UI, collapsible sidebar, animated transitions |
 | **[Volunteer MS](https://volunteer-management-system-delta.vercel.app)** | Next.js 14 · Supabase · Server Actions | End-to-end volunteer management system built for NayePankh Foundation |
-| **ECG Heart Attack Detection** | Python · CNN · TensorFlow | Cardiac arrhythmia classifier — ~98% accuracy on MIT-BIH dataset |
+| **ECG Heart Attack Detection** | Python · CNN · TensorFlow · NumPy · Pandas · scikit-learn | Cardiac arrhythmia classifier — ~98% accuracy on MIT-BIH dataset |
 
 ---
 
-## tech
+## Tech
 
 ```
 Frontend    →  React  Next.js  TypeScript  Tailwind CSS  Framer Motion
 Backend     →  Node.js  Express.js  RESTful APIs  Server Actions
 Database    →  PostgreSQL  Supabase  (Supabase Auth + RLS)
-AI / ML     →  Python  TensorFlow  CNN  scikit-learn
+AI / ML     →  Python  TensorFlow  Numpy Pandas  scikit-learn
 Tools       →  Git  Vercel  Render  Postman  VS Code
 ```
 
 ---
 
-## github stats
+## Github stats
 
 <div align="center">
 
@@ -69,7 +69,7 @@ Tools       →  Git  Vercel  Render  Postman  VS Code
 
 ---
 
-## currently
+## Currently
 
 - 🔍 Actively seeking **SWE / Full Stack / AI-ML internships**
 - 🛠 Deepening into **Next.js App Router** patterns + **Supabase** edge functions
@@ -77,7 +77,7 @@ Tools       →  Git  Vercel  Render  Postman  VS Code
 
 ---
 
-## reach me
+## Reach me
 
 <div align="center">
 
