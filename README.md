@@ -56,7 +56,7 @@ Tools       →  Git  Vercel  Render  Postman  VS Code
 
 ---
 
-## Github stats
+## GitHub Stats
 
 <div align="center">
 
@@ -71,9 +71,9 @@ Tools       →  Git  Vercel  Render  Postman  VS Code
 
 ## Currently
 
-- 🔍 Actively seeking **SWE / Full Stack / AI-ML internships**
-- 🛠 Deepening into **Next.js App Router** patterns + **Supabase** edge functions
-- 📚 HackerRank — competitive programming, DP problems
+-  Actively seeking **Full Stack internships**
+-  Building more full stack projects
+-  LeetCode — solving DSA problems
 
 ---
 
