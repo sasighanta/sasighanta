@@ -77,7 +77,7 @@ Tools       →  Git  Vercel  Render  Postman  VS Code
 
 ---
 
-## Reach me
+## Reach Me
 
 <div align="center">
 
@@ -90,5 +90,5 @@ Tools       →  Git  Vercel  Render  Postman  VS Code
 ---
 
 <div align="center">
-<sub>ECE student who accidentally became a full-stack dev. Always building.</sub>
+<sub>ECE student passionate about full-stack development. Always building.</sub>
 </div>
