@@ -11,7 +11,7 @@
 
 
 ### Ghanta Sasi Sai Tulasi
-**ECE @ IIIT Sri City** · Full Stack  · Building things that actually ship
+**ECE @ IIIT Sri City** · Full Stack Developer  · Building things that actually ship
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sasighanta&color=0d1117&style=flat&label=profile+views)](https://github.com/sasighanta)
 
@@ -25,7 +25,7 @@ const sasi = {
   alias    : "sasi",
   college  : "IIIT Sri City — ECE, Year 4",
   cgpa     : 8.4,
-  building : ["Full Stack Web Apps", "Things that ship to prod"],
+  building : ["Full Stack Web Apps", "Real-world projects"],
   currently: "Open to internship & full-time opportunities",
   askMeAbout: ["React", "Next.js", "Node.js", "Express", "Supabase"],
 };
